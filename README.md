@@ -1,6 +1,3 @@
-[CHANGELOG]
-- Avaliação Heurística de colega de classe adicionado entre os arquivos do projeto
-
 # **Tema escolhido:** Plataforma de Registro de Obras Literárias Lidas
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
